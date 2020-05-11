@@ -1,0 +1,24 @@
+{
+  "name": "get-vk-pics",
+  "description": "The part of my small proj",
+  "repository": "https://github.com/jt3k/get-vk-pics",
+  "version": "1.0.0",
+  "main": "get-vk-pics.js",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Andrey Gurtovoy",
+    "email": "iyntx@ya.ru",
+    "url": "github.com/jt3k"
+  },
+  "engines": {
+    "node": ">=10.19.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "got": "^11.1.3"
+  }
+}
